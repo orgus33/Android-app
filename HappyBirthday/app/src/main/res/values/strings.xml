@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Happy Birthday</string>
+    <string name="header">Il vous reste 30 secondes</string>
+</resources>

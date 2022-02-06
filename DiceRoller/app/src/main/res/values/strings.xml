@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="button_text">Lancer les dés</string>
+    <string name="default_text">Hello world !</string>
+    <string name="dice_one">Dé 1 :</string>
+    <string name="dice_two">Dé 2 :</string>
+</resources>
